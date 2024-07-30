@@ -1,2 +1,2 @@
 # Quiz-Game
-This is normal python Quiz game only.
+This is a normal python Quiz game only.
